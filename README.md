@@ -26,3 +26,10 @@ Neste projeto, foi implementado um editor de arte com pixels em que a pessoa usu
 11. Limite o tamanho mínimo e máximo do quadro de pixels.
 12. Faça com que as cores da paleta sejam geradas aleatoriamente ao carregar a página.
  
+
+## Contribuidores
+[//]: contributor-faces
+
+<a href="https://github.com/higinosk"><img src="https://avatars.githubusercontent.com/u/76918008?v=4" title="Kamilly Higino" width="100" height="100"></a>
+
+[//]: contributor-faces
